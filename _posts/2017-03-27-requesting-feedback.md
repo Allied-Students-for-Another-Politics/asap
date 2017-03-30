@@ -20,11 +20,6 @@ Take this opportunity to share your opinions about you want the website to be, h
 
 As you can see, all of the text content comes from ASAP's current site. To give everyone the opportunity to weigh in on the new site's content, I've created [another document](https://docs.google.com/document/d/1Bq60TeHQGWRrmv0SNirdu6h8hTp4y9Lm85vkoVTg1fs/edit?usp=sharing) listing each page's text. Please read over it and make any changes or suggestions as you see fit. I tried to get the ball rolling by rephrasing some stuff with the intent to improve readability and clean up some run-on sentences.
 
-
-
-
-
-
-
+-- Travis
 
 ******
