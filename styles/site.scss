@@ -1,0 +1,56 @@
+---
+---
+
+// --------------------
+// Navbar Color Variables
+// --------------------
+$navbar-default-link-color: #ddd;
+$navbar-default-bg: #333;
+$navbar-default-link-active-color: #ddd;
+$navbar-default-link-active-bg: maroon;
+$navbar-default-link-hover-color: #fff;
+$navbar-default-link-hover-bg: darken($navbar-default-bg, 5%);
+
+// --------------------
+// Typography Variables
+// --------------------
+$font-size-base: 20px;
+
+@import "bootstrap"; // Overriden variables go before this
+
+// --------------------
+// Header Text
+// --------------------
+header > h1 {
+  font-family: Covered By Your Grace, sans-serif; 
+  font-size: 3em;
+  text-align: center;
+}
+
+// --------------------
+// Center the Navbar
+// --------------------
+.navbar {
+
+  .navbar-nav {
+    display: inline-block;
+    float: none;
+    verticle-align: top;
+
+    // Expand width of collapsed navbar elements (in extra-small view) only
+    @media (max-width: $screen-xs-max) { width: 100% }
+  }
+
+  .navbar-collapse {
+    text-align: center;
+    line-height: 0px;
+  }
+}
+
+// --------------------
+// Extend height of page (fixes embedded PDFs)
+// --------------------
+html, body, .container, main {
+  height: 100%;
+  min-height: 100%;
+}

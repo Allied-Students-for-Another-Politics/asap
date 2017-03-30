@@ -1,0 +1,10 @@
+---
+title: Another Leadership
+navbar_position: 2
+---
+
+## Another Leadership: We Are All Leaders 
+
+It has become a common occurence to hear anti-authoritarian groups make the claim that their organization "has no leaders." This, however, is not a true reflection of the internal dynamics of any group. Within an organization or group, whether formal or informal, leaders will always have a presence and an ability to influence the larger group. When we claim we have no leaders, we are denying the reality that we come from different backgrounds and experiences, and those differences also cultivate different skills. The desire for leaderless groups is understandable, as a culture we typically equate leadership and leadership skills with characteristics that are patriarchal such as aggressiveness, assertiveness, self-assuredness, and a willingness to dominate.
+
+Therefore, our common conception of leadership is leadership by domination and oppression. Certainly these qualities do not have to be oppressive (though they often are), but when we limit our conception of leadership with patriarchal leadership we are denying a whole range of skills and qualities from being recognized for their vital importance in creating social change and empowerment. In his book, Chris Dixon presented a concept of leadership that is becoming more popular in the anti-authoritarian current, and it takes into account often unrecognized forms of leadership. Dixon calls this "another leadership" and as an anti-authoritarian group Allied Students for Another Politics seeks to implement within our organization a model of "another leadership" where we offer skill shares, leadership guidance, workshops, and support systems that are intended to balance the weight of leadership from a select few to an entire collective and teach leadership skills to those that are possibly less experienced or less confident in their leadership ability. This project seeks to redefine leadership so that we will not claim "we have no leaders," but instead that "WE ARE ALL LEADERS!"
