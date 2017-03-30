@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ASAP - {{ page.title }}</title>
     <link href="https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Open+Sans:400" rel="stylesheet"> 
-    <link rel="stylesheet" type="text/css" href="/styles/site.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/styles/site.css">
   </head>
   <body>
     <div class="container">
@@ -36,7 +36,7 @@
 	      {% for p in navbar_pages %}
 	      {% if p.navbar_position %}
 	      <li {% if p.url == page.url %} class="active" {% endif %}>
-		<a href="{{ p.url | remove: ".html" }}" >{{ p.title }}</a>
+		<a href="{{ site.baseurl }}{{ p.url | remove: ".html" }}" >{{ p.title }}</a>
 	      </li>
 	      {% endif %}
 	      {% endfor %}
