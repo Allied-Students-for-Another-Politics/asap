@@ -1,8 +1,8 @@
 ---
-title: Horizontalism
+title: Horizontalidad
 navbar_position: 3
 ---
-## Horizontalism 101
+## {{ page.title }}
 
 Within the anti-authoritarian current, horizontalidad is a favorite method for internally structuring groups and organizations. It is a style born out of the popular Argentinian worker’s struggles of 2003, and draws on the fundamentals of Marxism, anarchism and participatory democracy; the word horizontalidad itself translates literally into “horizontality”. A horizontally-organized group does not have official leaders (such as presidents, treasurers, etc.), but instead places the same amount of formal power and decision-making ability into the hands of everyone in the group. In contrast to a vertical (or “top-down”) structure, where power and decision-making is concentrated at the top, practitioners of horizontalidad seek to distribute power between everybody involved. You can imagine horizontalidad as everybody standing on the same level, hence “horizontal.”
 
