@@ -40,6 +40,16 @@
 	      </li>
 	      {% endif %}
 	      {% endfor %}
+	      <li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" 
+		  aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
+		<ul class="dropdown-menu">
+		  {% assign resource_pages = site.pages | where: "navbar_category", "resources" %}
+		  {% for p in resource_pages %}
+		  <li><a href="{{ site.baseurl }}{{ p.url | remove: ".html" }}">{{ p.title }}</a></li>
+		  {% endfor %}
+		</ul>
+	      </li>
 	    </ul>
 	  </div>
 	</div>

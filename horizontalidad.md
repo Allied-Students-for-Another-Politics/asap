@@ -1,6 +1,6 @@
 ---
 title: Horizontalidad
-navbar_position: 3
+navbar_category: resources
 ---
 ## {{ page.title }}
 

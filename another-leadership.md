@@ -1,6 +1,6 @@
 ---
 title: Another Leadership
-navbar_position: 2
+navbar_category: resources
 ---
 
 ## Another Leadership: We Are All Leaders 

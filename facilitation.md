@@ -1,6 +1,6 @@
 ---
 title: Facilitation
-navbar_position: 4
+navbar_category: resources
 ---
 ## Facilitation 101
 
